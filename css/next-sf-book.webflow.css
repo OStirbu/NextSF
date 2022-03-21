@@ -164,7 +164,7 @@ a {
   -ms-flex-align: stretch;
   align-items: stretch;
   border-bottom: 1px solid hsla(0, 0%, 100%, 0.2);
-  background-color: #0b0410;
+  background-color: transparent;
 }
 
 .feature-text-wrapper {
@@ -275,7 +275,7 @@ a {
   -ms-flex-align: stretch;
   align-items: stretch;
   border-bottom: 1px solid hsla(0, 0%, 100%, 0.2);
-  background-color: #0b0410;
+  background-color: transparent;
 }
 
 .feature-image-wrapper-left {
