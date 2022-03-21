@@ -791,8 +791,12 @@ a {
     line-height: 130%;
   }
 
+  .heading.weekly {
+    font-size: 28px;
+  }
+
   .heading-3 {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 130%;
   }
 
@@ -820,15 +824,36 @@ a {
     align-items: stretch;
   }
 
+  .feature-text-wrapper {
+    display: block;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+
   .heading-4 {
     line-height: 130%;
   }
 
   .heading-4.weekly {
+    font-size: 23px;
     text-align: center;
   }
 
+  .heading-4.weekly-copy-copy {
+    font-size: 20px;
+  }
+
   .heading-5 {
+    max-width: 95%;
+    margin-right: auto;
+    margin-left: auto;
     line-height: 23px;
   }
 
@@ -875,6 +900,10 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+  }
+
+  .heading-6 {
+    font-size: 18px;
   }
 
   .link-block {
