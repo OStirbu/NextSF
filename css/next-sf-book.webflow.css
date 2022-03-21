@@ -53,7 +53,7 @@ a {
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  border-bottom: 1px solid hsla(0, 0%, 100%, 0.25);
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.1);
 }
 
 .app-icon {
@@ -164,7 +164,7 @@ a {
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  border-bottom: 1px solid hsla(0, 0%, 100%, 0.2);
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.1);
   background-color: transparent;
 }
 
@@ -275,7 +275,7 @@ a {
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  border-bottom: 1px solid hsla(0, 0%, 100%, 0.2);
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.1);
   background-color: transparent;
 }
 
@@ -356,7 +356,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-bottom: 1px solid hsla(0, 0%, 100%, 0.25);
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.1);
 }
 
 .about-me {
